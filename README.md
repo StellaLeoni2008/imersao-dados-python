@@ -38,4 +38,4 @@ Este projeto foi fundamental para consolidar minha base em análise de dados com
 
 
 <p align="right">
-04/03/2026
+30/01/2026
