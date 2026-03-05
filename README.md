@@ -1,7 +1,6 @@
 <h1 align="center"> 📊 Dashboard de Análise de Salários na Área de Dados </h1>
 <p align="center">
-<img width="800" height="600" alt="sorteador de numeros capa" src="<img width="1536" height="1024" alt="8AE94339-2C08-4041-A43B-B1B1755B1D18" src="https://github.com/user-attachments/assets/c155ee94-a585-4577-bb77-20c7b00959fe" />
-" />
+<img width="800" height="600" alt="8AE94339-2C08-4041-A43B-B1B1755B1D18" src="https://github.com/user-attachments/assets/cb44665f-5ca9-4132-8b37-2e27e887daec" />
 </p>
 
 ## 💻 Linguagens usadas no projeto
@@ -13,7 +12,7 @@ Neste curso, aprendemos desde os fundamentos da análise de dados com Python at�
 
 Neste repositório, apresento o código do dashboard e a aplicação prática dos conceitos aprendidos ao longo da imersão.
 
-*Vídeo do dashboard:*
+[*Vídeo do dashboard*](file:///Users/stell/Downloads/streamlit-app-2026-03-04-19-09-59.webm)
 
 ## 🧠 Conceitos Fundamentais Praticados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de análise e visualização de dados com Python, como:
