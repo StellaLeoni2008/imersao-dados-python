@@ -3,7 +3,7 @@
 <img width="800" height="600" alt="8AE94339-2C08-4041-A43B-B1B1755B1D18" src="https://github.com/user-attachments/assets/cb44665f-5ca9-4132-8b37-2e27e887daec" />
 </p>
 
-## 💻 Linguagens usadas no projeto
+## 💻 Linguagem usada no projeto
 <img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>
 
 ## 📌 Sobre
@@ -12,7 +12,8 @@ Neste curso, aprendemos desde os fundamentos da análise de dados com Python at�
 
 Neste repositório, apresento o código do dashboard e a aplicação prática dos conceitos aprendidos ao longo da imersão.
 
-[*Vídeo do dashboard*](file:///Users/stell/Downloads/streamlit-app-2026-03-04-19-09-59.webm)
+[*Vídeo do Dashboard*](https://github.com/user-attachments/assets/6bfd6a4c-9ac4-4aef-9f47-0a17b87445d4)
+
 
 ## 🧠 Conceitos Fundamentais Praticados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de análise e visualização de dados com Python, como:
