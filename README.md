@@ -1,11 +1,10 @@
 <h1 align="center"> 📊 Dashboard de Análise de Salários na Área de Dados </h1>
 <p align="center">
-<img width="800" height="600" alt="8AE94339-2C08-4041-A43B-B1B1755B1D18" src="https://github.com/user-attachments/assets/cb44665f-5ca9-4132-8b37-2e27e887daec" />
+<img width="800" height="500" alt="8AE94339-2C08-4041-A43B-B1B1755B1D18" src="https://github.com/user-attachments/assets/cb44665f-5ca9-4132-8b37-2e27e887daec" />
 </p>
 
 ## 💻 Linguagem usada no projeto
-<img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>
-
+<img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>      <img loading="lazy" src="https://img.shields.io/badge/Pandas-purple"/>      <img loading="lazy" src="https://img.shields.io/badge/Numpy-green"/>      <img loading="lazy" src="https://img.shields.io/badge/Matplotlib-orange"/>
 ## 📌 Sobre
 O *Dashboard de Análise de Salários na Área de Dados* foi desenvolvido durante o curso **Alura – Imersão Dados com Python**.
 Neste curso, aprendemos desde os fundamentos da análise de dados com Python até a construção de um dashboard interativo, aplicando conceitos de manipulação, filtragem e visualização de dados.O projeto foi iniciado no Google Colab, ambiente utilizado para exploração e tratamento inicial dos dados, e posteriormente evoluiu para a construção de uma aplicação interativa utilizando Streamlit.
