@@ -4,32 +4,108 @@
 </p>
 
 ## 💻 Linguagem usada no projeto
-<img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>      <img loading="lazy" src="https://img.shields.io/badge/Pandas-purple"/>      <img loading="lazy" src="https://img.shields.io/badge/Numpy-green"/>      <img loading="lazy" src="https://img.shields.io/badge/Matplotlib-orange"/>
+<img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>      <img loading="lazy" src="https://img.shields.io/badge/Pandas-purple"/>      <img loading="lazy" src="https://img.shields.io/badge/Numpy-green"/>      <img loading="lazy" src="https://img.shields.io/badge/Matplotlib-orange"/>      <img loading="lazy" src="https://img.shields.io/badge/Streamlit-red"/>      <img loading="lazy" src="https://img.shields.io/badge/Plotly-blue"/>
+
+---
+
 ## 📌 Sobre
+
 O *Dashboard de Análise de Salários na Área de Dados* foi desenvolvido durante o curso **Alura – Imersão Dados com Python**.
-Neste curso, aprendemos desde os fundamentos da análise de dados com Python até a construção de um dashboard interativo, aplicando conceitos de manipulação, filtragem e visualização de dados.O projeto foi iniciado no Google Colab, ambiente utilizado para exploração e tratamento inicial dos dados, e posteriormente evoluiu para a construção de uma aplicação interativa utilizando Streamlit.
 
-Neste repositório, apresento o código do dashboard e a aplicação prática dos conceitos aprendidos ao longo da imersão.
+O objetivo do projeto foi aplicar conceitos de análise, manipulação e visualização de dados utilizando Python, evoluindo desde a exploração inicial dos dados no Google Colab até a construção de um dashboard interativo com Streamlit.
 
-[*Vídeo do Dashboard*](https://github.com/user-attachments/assets/6bfd6a4c-9ac4-4aef-9f47-0a17b87445d4)
+A aplicação permite explorar informações salariais da área de dados por meio de filtros dinâmicos e gráficos interativos, possibilitando diferentes análises relacionadas a cargos, senioridade, tipos de contrato e distribuição salarial.
 
+Durante o desenvolvimento, foram utilizadas bibliotecas como Pandas para manipulação dos dados, Plotly para criação dos gráficos interativos e Streamlit para construção da interface web do dashboard.
+
+---
+
+## ⚙️ Funcionalidades
+- Filtros dinâmicos por:
+  - ano
+  - senioridade
+  - tipo de contrato
+  - tamanho da empresa
+- Exibição de métricas gerais
+- Visualização da distribuição salarial
+- Ranking de cargos por salário médio
+- Gráficos interativos com Plotly
+- Dashboard web interativo com Streamlit
+- Exploração de dados em tempo real
+
+---
 
 ## 🧠 Conceitos Fundamentais Praticados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de análise e visualização de dados com Python, como:
-- Fundamentos da linguagem Python (variáveis, condicionais e estruturação do código)
 - Leitura e manipulação de dados com Pandas
-- Filtragem de DataFrame com múltiplas condições
+- Filtragem de DataFrames com múltiplas condições
 - Tratamento e análise exploratória de dados
-- Cálculo de métricas estatísticas (média, máximo, moda e contagem)
+- Cálculo de métricas estatísticas
 - Agrupamento e agregação de dados
-- Criação de visualizações interativas
-- Construção de dashboard com interface dinâmica
-- Uso de filtros interativos para exploração dos dados
-- Organização e estruturação de código para aplicações web
+- Construção de gráficos interativos com Plotly
+- Desenvolvimento de dashboards com Streamlit
+- Estruturação de aplicações web com Python
+- Organização e visualização de informações para tomada de decisão
 
-O dashboard permite que o usuário filtre informações por ano, senioridade, tipo de contrato e tamanho da empresa, atualizando automaticamente métricas e gráficos.
+O dashboard permite que o usuário filtre informações dinamicamente, atualizando automaticamente métricas e gráficos da aplicação.
 
-Este projeto foi fundamental para consolidar minha base em análise de dados com Python, compreender a manipulação de dados em larga escala e desenvolver aplicações interativas voltadas para visualização e tomada de decisão.
+---
+
+## 🎥 Demonstração
+
+[*Vídeo do Dashboard*](https://github.com/user-attachments/assets/6bfd6a4c-9ac4-4aef-9f47-0a17b87445d4)
+
+---
+
+## 🔄 Fluxo da aplicação
+```text
+CSV → Tratamento dos Dados → Filtros Dinâmicos → Métricas → Visualizações Interativas
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/StellaLeoni2008/imersao-dados-python.git
+```
+2. Crie um ambiente virtual:
+```bash
+python -m venv venv
+```
+3. Ative o ambiente virtual:
+
+Windows
+```bash
+venv\Scripts\activate
+```
+macOS/Linux
+```bash
+source venv/bin/activate
+```
+4. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+5. Execute a aplicação Streamlit:
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📂 Estrutura do projeto
+```bash imersao-dados-python/
+├── app.py
+├── dados-imersao-final.csv
+├── requirements.txt
+└── README.md
+```
+
+
+<br>
+
 
 ## Autores 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/237313711?v=4" width=115><br><sub>Stella Leoni</sub>](https://github.com/StellaLeoni2008) | 
